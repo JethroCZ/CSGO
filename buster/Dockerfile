@@ -5,7 +5,7 @@ FROM cm2network/steamcmd:root
 
 LABEL maintainer="walentinlamonos@gmail.com"
 
-ENV STEAMAPPID 740
+ENV STEAMAPPID 730
 ENV STEAMAPP csgo
 ENV STEAMAPPDIR "/home/steam/${STEAMAPP}-dedicated"
 ENV DLURL https://raw.githubusercontent.com/CM2Walki/CSGO
